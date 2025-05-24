@@ -50,7 +50,7 @@ This project is a **fully functional e-commerce website** developed as part of a
 
 ## 🛠 Technologies Used
 - **Frontend**: HTML5, CSS3 (Flexbox/Grid), JavaScript (basic interactions).
-- **Backend**: PHP (procedural/OOP based on project scope), MySQL.
+- **Backend**: PHP (Rawww), MySQL.
 - **Server**: XAMPP/LAMPP (Apache, MySQL).
 - **Tools**: Git, phpMyAdmin.
 
@@ -73,4 +73,4 @@ The database includes tables for `users`, `products`, `orders`, and `order_items
 ### Steps
 1. **Clone the repo**:
    ```bash
-   git clone [your-repo-url]
+   git clone github.com/AlaSww/Eshop_website
