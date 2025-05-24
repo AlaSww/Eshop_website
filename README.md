@@ -25,7 +25,7 @@ This project is a **fully functional e-commerce website** developed as part of a
 - 🔍 **Product Browsing**: Filter by categories, view details.
 - 💳 **Checkout Process**: Order confirmation and summary.
 
-### Admin Side *(if applicable)*
+### Admin Side 
 - 📊 **Dashboard**: View sales and user metrics.
 - 🧺 **Product Management**: Add/edit/delete products.
 - 📦 **Order Management**: Update order statuses.
