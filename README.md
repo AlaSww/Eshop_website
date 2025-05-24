@@ -10,8 +10,6 @@
 - [Technologies Used](#-technologies-used)
 - [Database Schema](#-database-schema)
 - [Setup Instructions](#-setup-instructions)
-- [Contributors](#-contributors)
-- [License](#-license)
 
 ---
 
@@ -37,6 +35,7 @@ This project is a **fully functional e-commerce website** developed as part of a
 ## 📸 Screenshots
 | Section | Preview |
 |---------|---------|
+| **Admin Dashboard** | ![Homepage](./docs/images/dashboard.png) |
 | **Homepage** | ![Homepage](./docs/images/home_page.png) |
 | **Product Catalog** | ![Products Page](./docs/images/products_page1.png) |
 | **Product Details** | ![Product Details](./docs/images/product_details.png) |
